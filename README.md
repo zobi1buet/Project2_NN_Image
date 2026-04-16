@@ -28,9 +28,9 @@ Download `Vegetables.zip` from Brightspace and place it in your working director
 
 ## Deliverables
 
-- Your completed `.ipynb` notebook
+- Your completed github repository link
 - Your saved model file (`.pth`) — must be under 400 MB
-- A note (~1-2 paragraphs) in Moodle explaining what you did to improve accuracy
+- A note (~1-2 paragraphs) explaining what you did to improve accuracy
 
 ## Grading
 
